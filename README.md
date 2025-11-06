@@ -18,7 +18,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=700&color=4F46E5&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Computer+Vision+Developer;Building+RAG+Systems+and+Intelligent+AI+Apps;Bringing+ML+Models+to+Real+Life+Products" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=700&color=4F46E5&center=true&vCenter=true&width=750&lines=Aspiring+AI+Engineer+%7C+Exploring+Data%2C+ML%2C+and+Intelligence;Learning+the+Full+Stack+of+AI+%E2%80%94+From+Data+Pipelines+to+Model+Deployment;Building+Projects+That+Turn+Learning+Into+Impact" alt="Typing Animation">
 </p>
 
 ---

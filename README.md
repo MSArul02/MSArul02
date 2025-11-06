@@ -55,35 +55,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🧩 [FaceMatch AI](#)
-🔹 Real-time multi-face recognition using **MTCNN** + **InceptionResnetV1**  
-🔹 Flask REST API + responsive web dashboard  
-🔹 Embedding-based matching (512-D) for accurate identity recognition  
-
-#### ⚙️ [Smart Object Counter](#)
-🔹 Combined **U²NetP + Watershed Segmentation** for overlapping object separation  
-🔹 Real-time counting of industrial parts via **OpenCV + Flask**  
-🔹 Handles unknown shapes with adaptive morphological filtering  
-
-#### 💬 [CodeRAG Chat Assistant](#)
-🔹 Custom **RAG system** built with **LangChain + FAISS + Ollama (LLaMA-3)**  
-🔹 Context-aware code search, documentation Q&A, and live inference pipeline  
-🔹 Built API + UI with Flask + Vanilla JS  
-
-#### 🎥 [AniRadar](#)
-🔹 Semantic recommendation system for anime using embeddings  
-🔹 Powered by **LangChain + ChromaDB**, with an interactive Gradio UI  
-
----
-
-### 🏆 Achievements
-🏅 **1st Place — Code-O-Clock 2025 (CIT)** — ₹25,000 prize + internship offer for an AI product built in 24 hours.  
-🥉 **3rd Place — Code-O-Clock 2024 (CIT)** — ₹10,000 for a time-critical real-time ML prototype built in 24 hours. 
-
----
-
 ### 📊 GitHub Analytics
 
 <p align="center">

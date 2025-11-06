@@ -1,92 +1,115 @@
-<!-- Profile README for @MSArul02 -->
+<!-- 🌟 GitHub Profile README — @MSArul02 -->
 
-<h1 align="center">Hi, I'm Arul 👋</h1>
+<!-- Header Section -->
+<h1 align="center">
+  Hey there, I'm <span style="color:#4F46E5;">Arul M S</span> 👋  
+</h1>
+<h3 align="center">
+  AI & Computer Vision Engineer | Building Intelligent Systems That See, Think & Act
+</h3>
 
 <p align="center">
-  <a href="mailto:msarul2802@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/arul-m-s">LinkedIn</a> •
-  <a href="https://github.com/MSArul02">GitHub</a>
+  <a href="mailto:msarul2802@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/arul-m-s"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/MSArul02"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🚀 What I’m good at
-- **AI & ML:** Machine Learning, Deep Learning, Computer Vision, LLM Integration, RAG
-- **Frameworks & Tools:** Flask, Streamlit, LangChain, REST APIs, FAISS, Docker
-- **Data & Viz:** Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Tableau, Power BI
-- **Libraries I use a lot:** OpenCV, TensorFlow, Keras, U²NetP, InceptionResnetV1
-- **APIs/Services:** Ollama (LLaMA-3), Groq, OpenAI, Gemini, LiveKit, ElevenLabs
-- **Languages:** Python, SQL
-
-> Currently building AI apps with real-time recognition, retrieval, and RAG chat systems.
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=700&color=4F46E5&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Computer+Vision+Developer;Building+RAG+Systems+and+Intelligent+AI+Apps;Bringing+ML+Models+to+Real+Life+Products" alt="Typing Animation">
+</p>
 
 ---
 
-### 🧩 Selected Projects
-- **FaceMatch AI** — Real-time multi-face detection, alignment (MTCNN), and 512-D embeddings (InceptionResnetV1) with a Flask REST API + responsive UI.
-- **Smart Object Counter** — CV pipeline combining **U²NetP + Watershed** to separate overlapping industrial parts; Flask dashboard for live webcam counting.
-- **CodeRAG AI Assistant** — RAG chatbot over company docs using **LangChain + FAISS + Ollama (LLaMA-3)** with a Flask backend and JS front-end.
-- **AniRadar** — Semantic recommendations for anime using embeddings with **LangChain + ChromaDB**, interactive **Gradio** frontend.
+### 🧠 About Me
+🚀 I'm a **B.Tech AI & DS Student (2022–2026)** with a mission to create **AI systems that solve real-world problems**, not just run benchmarks.  
+💡 Currently a **Software Developer Intern @ Chatting Birds (IIT-M Incubated)** — working on **face recognition**, **object detection**, and **RAG chat systems** using LLMs.  
+🎯 Passionate about **Flask-based AI apps**, **LLM integrations**, and **Computer Vision pipelines** that actually perform in production.  
+🧩 Obsessed with optimization, edge deployment, and making AI practical.
 
-> Repos will be pinned below as they’re made public. If something’s missing, I’m probably cleaning it up.
+---
+
+### 🛠️ Tech Stack That Fuels My Projects
+
+#### 🧩 Core AI/ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+#### ⚙️ Frameworks & Tools
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1F6FEB?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-2C3E50?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+#### 📊 Data & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+---
+
+### 🚀 Featured Projects
+
+#### 🧩 [FaceMatch AI](#)
+🔹 Real-time multi-face recognition using **MTCNN** + **InceptionResnetV1**  
+🔹 Flask REST API + responsive web dashboard  
+🔹 Embedding-based matching (512-D) for accurate identity recognition  
+
+#### ⚙️ [Smart Object Counter](#)
+🔹 Combined **U²NetP + Watershed Segmentation** for overlapping object separation  
+🔹 Real-time counting of industrial parts via **OpenCV + Flask**  
+🔹 Handles unknown shapes with adaptive morphological filtering  
+
+#### 💬 [CodeRAG Chat Assistant](#)
+🔹 Custom **RAG system** built with **LangChain + FAISS + Ollama (LLaMA-3)**  
+🔹 Context-aware code search, documentation Q&A, and live inference pipeline  
+🔹 Built API + UI with Flask + Vanilla JS  
+
+#### 🎥 [AniRadar](#)
+🔹 Semantic recommendation system for anime using embeddings  
+🔹 Powered by **LangChain + ChromaDB**, with an interactive Gradio UI  
 
 ---
 
 ### 🏆 Achievements
-- **1st Place — Code-O-Clock 2025 (CIT)** — ₹25,000 prize + internship offer for an AI solution built in 24 hours.
-- **3rd Place — Code-O-Clock 2024 (CIT)** — ₹10,000 prize for a real-time prototype under time pressure.
-- **Vice President — Orators Club (2025)** — Led events, debates, and workshops; sharpened comms + leadership.
+🏅 **1st Place — Code-O-Clock 2025 (CIT)** — ₹25,000 prize + internship offer for an AI product built in 24 hours  
+🥉 **3rd Place — Code-O-Clock 2024 (CIT)** — ₹10,000 for a time-critical real-time ML prototype  
+🎤 **Vice President — Orators Club (2025)** — Leading events, debates, and hackathons  
 
 ---
 
 ### 💼 Experience
-**Software Developer Intern — Chatting Birds Pvt. Ltd. (IIT-M incubated)**  
-*Jul 2025 – Present*  
-- AI web apps in Flask; face recognition & object counting (OpenCV / YOLOv8).
-- Built a **RAG** chatbot (LangChain, FAISS, Ollama) for technical/code queries.
-- Designed responsive UIs; optimized ML pipelines for lower latency & better throughput.
+**Software Developer Intern — Chatting Birds Pvt. Ltd. (IIT-M Incubated)**  
+📅 *Jul 2025 – Present*  
+💡 Developing **Flask-based AI products**, **LLM-integrated RAG systems**, and **Computer Vision apps** for production environments.  
+⚙️ Focus: Latency reduction, system optimization, and real-world deployment.
 
 ---
 
-### 📚 Education
-**B.Tech — Artificial Intelligence & Data Science**  
-Karpagam College of Engineering, Coimbatore (CGPA: 8.00)  
-*Nov 2022 – May 2026*
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MSArul02&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSArul02&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSArul02&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack (badges)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1F6FEB)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-2C3E50)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
-![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSArul02&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MSArul02&layout=compact)
-
----
-
-### 🤝 Let’s Connect / Collaborate
-- Open to jobs, internships, research projects, and hackathons in.
-- Want to build something together? → **msarul2802@gmail.com**
-
-<!--
-Quick edit checklist:
-- Pin: FaceMatch AI, Smart Object Counter, CodeRAG, AniRadar
-- Add repo links above once public
-- Keep achievements and experience current
--->
+### ⚡ Fun Section: “My Dev Personality”
+```bash
+> python Arul.py
+🚀 Passionate about: AI, RAG, Vision, Real-time systems
+🧠 Current Focus: Merging LLMs + Vision for intelligent retrieval
+📅 On Weekends: Building, learning, shipping
+☕ Motto: “Don’t just deploy models — deploy impact.”

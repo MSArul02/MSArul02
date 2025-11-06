@@ -5,7 +5,7 @@
   Hey there, I'm <span style="color:#4F46E5;">Arul M S</span> 👋  
 </h1>
 <h3 align="center">
-  AI & Computer Vision Engineer | Building Intelligent Systems That See, Think & Act
+  Turning Curiosity Into Code | On a Journey Through Data, ML, and AI Systems.
 </h3>
 
 <p align="center">
@@ -26,8 +26,8 @@
 ### 🧠 About Me
 🚀 I'm a **B.Tech AI & DS Student (2022–2026)** with a mission to create **AI systems that solve real-world problems**, not just run benchmarks.  
 💡 Currently a **Software Developer Intern @ Chatting Birds (IIT-M Incubated)** — working on **face recognition**, **object detection**, and **RAG chat systems** using LLMs.  
-🎯 Passionate about **Flask-based AI apps**, **LLM integrations**, and **Computer Vision pipelines** that actually perform in production.  
-🧩 Obsessed with optimization, edge deployment, and making AI practical.
+🎯 Exploring how data becomes intelligence — from building ML models to deploying AI systems that actually solve problems.
+🧩 Passionate about learning end-to-end — data pipelines, model optimization, and real-world AI applications.
 
 ---
 
@@ -79,17 +79,8 @@
 ---
 
 ### 🏆 Achievements
-🏅 **1st Place — Code-O-Clock 2025 (CIT)** — ₹25,000 prize + internship offer for an AI product built in 24 hours  
-🥉 **3rd Place — Code-O-Clock 2024 (CIT)** — ₹10,000 for a time-critical real-time ML prototype  
-🎤 **Vice President — Orators Club (2025)** — Leading events, debates, and hackathons  
-
----
-
-### 💼 Experience
-**Software Developer Intern — Chatting Birds Pvt. Ltd. (IIT-M Incubated)**  
-📅 *Jul 2025 – Present*  
-💡 Developing **Flask-based AI products**, **LLM-integrated RAG systems**, and **Computer Vision apps** for production environments.  
-⚙️ Focus: Latency reduction, system optimization, and real-world deployment.
+🏅 **1st Place — Code-O-Clock 2025 (CIT)** — ₹25,000 prize + internship offer for an AI product built in 24 hours.  
+🥉 **3rd Place — Code-O-Clock 2024 (CIT)** — ₹10,000 for a time-critical real-time ML prototype built in 24 hours. 
 
 ---
 
@@ -105,11 +96,3 @@
 </p>
 
 ---
-
-### ⚡ Fun Section: “My Dev Personality”
-```bash
-> python Arul.py
-🚀 Passionate about: AI, RAG, Vision, Real-time systems
-🧠 Current Focus: Merging LLMs + Vision for intelligent retrieval
-📅 On Weekends: Building, learning, shipping
-☕ Motto: “Don’t just deploy models — deploy impact.”

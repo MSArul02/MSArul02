@@ -24,8 +24,7 @@
 ---
 
 ### 🧠 About Me
-🚀 **B.Tech AI & DS Student (2022–2026)** — building AI systems that solve real problems, not just benchmarks.  
-💡 **Software Developer Intern @ Chatting Birds (IIT-M Incubated)** — working on face recognition, object detection, and RAG chat systems with LLMs.  
+🚀 **B.Tech AI & DS Student (2022–2026)** — building AI systems that solve real problems, not just benchmarks.   
 🎯 Exploring how data becomes intelligence — from ML models to full AI deployment.  
 🧩 Passionate about mastering the entire workflow: data, models, and real-world AI integration.  
 

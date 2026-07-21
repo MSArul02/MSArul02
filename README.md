@@ -1,8 +1,8 @@
-<!-- 🌟 GitHub Profile README — @MSArul02 -->
+<!--  GitHub Profile README — @MSArul02 -->
 
 <!-- Header Section -->
 <h1 align="center">
-  Hey there, I'm <span style="color:#4F46E5;">Arul M S</span> 👋  
+  Hey there, I'm <span style="color:#4F46E5;">Arul M S</span> 
 </h1>
 <h3 align="center">
   Turning Curiosity Into Code | On a Journey Through Data, ML, and AI Systems.
@@ -23,30 +23,30 @@
 
 ---
 
-### 🧠 About Me
-🚀 **B.Tech AI & DS Student (2022–2026)** — building AI systems that solve real problems, not just benchmarks.   
-🎯 Exploring how data becomes intelligence — from ML models to full AI deployment.  
-🧩 Passionate about mastering the entire workflow: data, models, and real-world AI integration.  
+###  About Me
+**B.Tech AI & DS Student (2022–2026)** — building AI systems that solve real problems, not just benchmarks.   
+Exploring how data becomes intelligence — from ML models to full AI deployment.  
+Passionate about mastering the entire workflow: data, models, and real-world AI integration.  
 
 ---
 
-### 🛠️ Tech Stack That Fuels My Projects
+###  Tech Stack That Fuels My Projects
 
-#### 🧩 Core AI/ML
+####  Core AI/ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-#### ⚙️ Frameworks & Tools
+####  Frameworks & Tools
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1F6FEB?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-2C3E50?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-#### 📊 Data & Visualization
+####  Data & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
@@ -54,7 +54,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MSArul02&show_icons=true&theme=tokyonight" height="165" />
